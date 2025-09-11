@@ -8,9 +8,6 @@ body {
 }
 
 h1 {
-  opacity: 0;
-  transform: translateY(50px);
-  animation: funnyPop 1s ease-out forwards;
   font-size: 3rem;
   font-family: Arial, sans-serif;
 }
